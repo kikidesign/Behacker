@@ -4,15 +4,15 @@
 
 # Site
 title: Hexo
-subtitle:
+subtitle:Be Hacker
 description:
-author: John Doe
+author: Kikidesign
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: kikidesign.github.com/behacker
+url: http://behacker.kikidesign.cn/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
