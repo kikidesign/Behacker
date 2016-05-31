@@ -68,6 +68,10 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-type: git
-repo: https://github.com/kikidesign/behacker.git
-branch: gh-pages
+    type: git
+    repo: https://github.com/kikidesign/behacker.git
+    branch: gh-pages
+
+plugins:
+- hexo-server
+- hexo-deployer-git
