@@ -71,4 +71,3 @@ deploy:
 type: git
 repo: https://github.com/kikidesign/behacker.git
 branch: gh-pages
-message: behacker
